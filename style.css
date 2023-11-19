@@ -1,0 +1,22 @@
+#image {
+background-image:url(bg1.jpg);
+background-position:center;
+background-size:cover;
+}
+
+#myCanvas{
+border-width:20px;
+background-color:white;
+border-style:ridge;
+}
+
+.style {
+font-weight:bold;
+font-size:40px;
+}
+
+#clear {
+background-color:greenyellow;
+font-weight: bold;
+font-size:20px;
+}
